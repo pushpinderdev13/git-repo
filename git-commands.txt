@@ -1,5 +1,5 @@
 git status
-git init
+git init intilized the the git
 git config --global user.email "pushpinder_dev@outlook.com"
 git config --global user.name "Pushpinder"
 git config user.email "pushpinder_dev@outlook.com"
