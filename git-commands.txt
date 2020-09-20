@@ -1,4 +1,4 @@
-git status
+git status print the status
 git init intilized the the git
 git config --global user.email "pushpinder_dev@outlook.com"
 git config --global user.name "Pushpinder"
