@@ -8,6 +8,11 @@ git add
 git commit
 git log
 git diff <filename>
+
+-----------------------------------------------
+testing code first time
+seding change from private branch1
+**************************************************
 ==================================================================
 testing for private branch1
 created first branch
@@ -15,3 +20,4 @@ created first branch
 testing for private branch2
 added from private branch2
 _______________________________________________________________________________
+>>>>>>> 6792120b06ecae1b9dfe22297f4b41082e69c504
