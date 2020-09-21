@@ -8,3 +8,10 @@ git add
 git commit
 git log
 git diff <filename>
+==================================================================
+testing for private branch1
+created first branch
+....................................................................
+testing for private branch2
+added from private branch2
+_______________________________________________________________________________
